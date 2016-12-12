@@ -4,7 +4,7 @@ This is a project that makes use of Markov Chains to model tweets after differen
 The custom tweet generator will only run on a Unix based computer. 
 
 Addtionally to make use of the custom tweet generator work you need to get signup for a twitter developer
-account that will give you Oauth1 key + and seceret to give you access to the RESTful twitter 
+account that will give you Oauth1 key and secret to give you access to the RESTful twitter 
 API.
 
 
