@@ -14,7 +14,7 @@ API.
 2. Install `pip install python-twitter`
 3. Signup up for twitter account than login to the twitter devloper dash to get Oauth information
 which gets added to the tweetGrabber.py script
-4. Compile with `g++ -std=c++11 -o tweetGen.cpp`
+4. Compile with `g++ -std=c++11 -o tweetGen tweetGen.cpp`
 5. Run with `./tweetGen`
 
 
