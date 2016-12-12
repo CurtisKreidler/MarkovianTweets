@@ -1,0 +1,6 @@
+{
+  "name": "MarkovianTweets",
+  "tagline": "",
+  "body": "# MarkovianTweets\r\n----\r\nThis is a project that makes use of Markov Chains to model tweets after different celebries.\r\nThe custom tweet generator will only run on a Unix based computer. \r\n\r\nAddtionally to make use of the custom tweet generator work you need to get signup for a twitter developer\r\naccount that will give you Oauth1 key + and seceret to give you access to the RESTful twitter \r\nAPI.\r\n\r\n\r\n## Installation\r\n\r\n1. Clone the repository\r\n2. Install `pip install python-twitter`\r\n3. Signup up for twitter account than login to the twitter devloper dash to get Oauth information\r\nwhich gets added to the tweetGrabber.py script\r\n4. Compile with `g++ -std=c++11 -o tweetGen tweetGen.cpp`\r\n5. Run with `./tweetGen`\r\n\r\n\r\n## Future Plans\r\n\r\n* Make the Markov Chain degree of accuracy a variable\r\n* Make it a backend for a Twitterbot\r\n\r\n\r\n## Credits\r\n\r\nCollaborators: Adam Karpowich and Mike Mizikar\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
